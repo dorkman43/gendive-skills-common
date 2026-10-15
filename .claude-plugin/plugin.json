@@ -1,0 +1,8 @@
+{
+  "name": "gendive-skills-common",
+  "version": "0.1.0",
+  "description": "공통 사무: 개인정보 마스킹, 엑셀 정리, 메모를 표로 바꾸기, 보고 숫자 검증, 그래프·대시보드 등 모든 사무 업무에 공통으로 쓰는 국내 기준 스킬 모음",
+  "author": {
+    "name": "gendive"
+  }
+}
